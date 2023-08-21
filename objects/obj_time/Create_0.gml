@@ -1,3 +1,3 @@
-time = 6000;
+time = 10000;
 gameover = false;
 counting = true;
